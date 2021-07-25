@@ -407,7 +407,7 @@ section .title::after {
 }
 
 .skills-content .right .github::before {
-    width: 50%;
+    width: 60%;
 }
 
 .skills-content .right .bootstrap::before {
@@ -415,11 +415,11 @@ section .title::after {
 }
 
 .skills-content .right .html::before {
-    width: 50%;
+    width: 60%;
 }
 
 .skills-content .right .css::before {
-    width: 50%;
+    width: 60%;
 }
 
 .skills-content .right .js::before {
@@ -428,6 +428,12 @@ section .title::after {
 
 .skills-content .right .photoshop::before {
     width: 40%;
+}
+.skills-content .right .support::before {
+    width: 70%;
+}
+.skills-content .right .cloud::before {
+    width: 20%;
 }
 
 /* projects section styling */
