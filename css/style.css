@@ -435,10 +435,10 @@ section .title::after {
 }
 
 .skills-content .right .docker::before {
-    width: 60%;
+    width: 50%;
 }
 .skills-content .right .linux::before {
-    width: 60%;
+    width: 50%;
 }
 .skills-content .right .cloud::before {
     width: 70%;
